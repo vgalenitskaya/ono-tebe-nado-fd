@@ -31,8 +31,6 @@
 }
 
 .header__logo {
-  position: relative;
-  top: 5px;
   display: block;
   justify-self: center;
   width: 148px;
